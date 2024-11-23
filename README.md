@@ -95,18 +95,6 @@ For convenience, a batch file (`run_app.bat`) automatically installs dependencie
 
 The Streamlit app should open in your web browser.
 
-## Project Structure
-
-```
-<project_folder>/
-│   app.py                 # The main Streamlit app file
-│   requirements.txt        # List of required Python dependencies
-│   run_app.bat (optional)  # Batch file for easy execution (Windows)
-│   document_processing.py  # Document processing logic
-│   extracted_data.csv     # (Optional) CSV to store extracted data
-│   README.md               # Project documentation
-```
-
 ## Troubleshooting
 
 1. **Missing Dependencies:**
