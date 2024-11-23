@@ -1,4 +1,4 @@
-#Legal_Doc_Parser
+##Legal_Doc_Parser
 
 This project processes a PDF document, extracts relevant information using language models, and displays the extracted data in a user-friendly Streamlit web app. It leverages a combination of techniques:
 
