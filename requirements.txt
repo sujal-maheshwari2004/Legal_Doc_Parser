@@ -1,0 +1,10 @@
+faiss-cpu
+langchain
+langchain-ollama
+pytesseract
+pdfplumber
+pillow
+numpy
+collections
+streamlit
+csv
