@@ -59,7 +59,7 @@ ollama --version
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/sujal-maheshwari2004/Legal_Doc_Parser.git>
    cd <project_folder>
    ```
 
